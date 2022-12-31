@@ -1,0 +1,15 @@
+.iconimg {
+  height: 23px;
+}
+
+.li {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.listheading {
+  margin: 5px;
+}
